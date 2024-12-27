@@ -27,15 +27,4 @@ The **End-to-End Airfare Estimator** is a dynamic flight price prediction system
 - **Scikit-Learn**: For creating the **Linear Regression** model for price predictions.
 - **Python**: The primary language for backend development.
 
-### Other
-- **HTML/CSS**: Basic structuring and styling for the application.
 
----
-
-## 📥 Installation
-
-### Frontend
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Prarthnesh-Bharti/End-to-End-Airfare-Estimator.git
-   cd End-to-End-Airfare-Estimator/frontend
